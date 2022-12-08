@@ -1,4 +1,4 @@
-- <h1> Hi 👋  I’m Nimna Fernando </h1>
+<h1> Hi 👋  I’m Nimna Fernando </h1>
 
 - 🌱 I’m an undergraduate in Software Engineering.
 - 👀 I’m interested in full-stack development and mobile application development
