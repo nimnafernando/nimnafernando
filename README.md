@@ -1,6 +1,6 @@
 <h1> Hi 👋  I’m Nimna Fernando </h1>
 
-- 🌱 I’m an undergraduate in Software Engineering.
+- 🌱 I'm a Software Engineer at Applova Inc.
 - 👀 I’m interested in full-stack development and mobile application development
 - 📫 How to reach me https://www.linkedin.com/in/nimna-ravishani-fernando/
 
@@ -10,7 +10,7 @@
   <li> HTML | CSS | JavaScript </li>
   <li> Java | Python</li>
   <li> REACT JS </li>
-  <li> Android Mobile Development </li>
+  <li> Android Mobile Development | IOS Development </li>
   <li> MYSQL</li>
   <li> Angular Development</li>
  </ul 
